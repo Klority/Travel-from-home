@@ -1,0 +1,29 @@
+body{
+  background: url(resources/img/font1.png)no-repeat;
+  color:#410505;
+  font-family: Raleway;
+
+}
+table{
+  border-spacing: 20px;
+  font-size: 26px;
+
+  position: absolute;
+  width: 200px;
+  height: 40px;
+  left: 840px;
+  top: 0px;
+}
+
+
+footer{
+position: absolute;
+text-align: justify;
+width: 180px;
+height: 20px;
+left: 700px;
+top: 690px;
+font-size: 14px;
+font-family: Raleway;
+color: white;
+}

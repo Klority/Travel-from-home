@@ -1,0 +1,71 @@
+
+
+.Review{
+position: absolute;
+left:170px;
+top: 160px;
+font-weight: 200px;
+font-size: 28px;
+line-height: 0.7;
+}
+
+.Review_2{
+position: absolute;
+left:800px;
+top: 160px;
+font-weight: 200px;
+font-size: 28px;
+line-height: 0.7;
+}
+
+
+.Photo{
+position: absolute;
+left:100px;
+top: 160px;
+}
+
+.Travel{
+  color: black;
+position: absolute;
+left:300px;
+border-right: 80px;
+top: 160px;
+/*font-weight: 10px;*/
+font-size: 18px;
+line-height: 0.6;
+}
+
+
+.Country1{
+
+  position: absolute;
+left:100px;
+top: 120px;
+color: black;
+}
+
+.Country2{
+
+position: absolute;
+left:450px;
+top: 120px;
+color: black;
+}
+
+.Country3{
+
+position: absolute;
+left:800px;
+top: 120px;
+color: black;
+}
+
+.List{
+position: absolute;
+left:170px;
+top: 125px;
+font-weight: 400;
+font-size: 26px;
+line-height: 0.7;
+}
